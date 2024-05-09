@@ -1,0 +1,244 @@
+Mon Portfolio
+Accueil
+À Propos
+Projets
+Contact
+
+Menu
+Accueil
+À Propos
+Projets
+Contact
+Bienvenue sur mon portfolio !
+Je suis un développeur passionné à la recherche de nouvelles opportunités.
+
+À Propos de Moi
+Je suis un développeur full-stack avec une passion pour la création de sites web innovants.
+
+Mes Projets
+Projet 1
+Description du projet 1...
+
+Projet 2
+Description du projet 2...
+
+Contactez-moi
+Nom : 
+ Email : 
+ Message : 
+ Envoyer
+© 2024 Mon Portfolio
+
+
+=======Home section=======
+
+Hi, I am Martian
+
+Front-end Developer
+
+I create stunning websites for your business, Highly experienced in web design and development.
+
+=======About section=======
+
+I'm Martian
+
+A Lead Front-End Developer based in California
+
+I design and develop services for customers specializing creating stylish, modern websites, web services and online stores. My passion is to design digital user experiences through meaningful interactions. Check out my Portfolio
+
+=======Skills section=======
+
+Education & Skills
+------------------
+
+For more than 5 years our experts have been accomplishing enough with modern Web Development, new generation web and app programming language.
+
+Education
+---------
+
+2020-2021
+Ph.D in Horriblensess - Harvard University, Cambridge, MA
+2018-2019
+Computer Science - Imperialize Technical Institute
+2016-2018
+Graphic Designer - Web Graphy, Los Angeles, CA
+
+Awards
+------
+
+2021
+Best Developer - University Of Melbourne, NA
+2020
+Best Writter - Online Typodev Soluation Ltd.
+2019
+Best Freelancer - Fiver & Upwork Level 2 & Top Rated
+
+Work & Experience
+-----------------
+
+Sr. Graphic Designer
+Part Time | Office
+2020 - 2021
+Avada Theme.
+I design and develop services for customers of all sizes, specializing in creating stylish, modern websites
+
+Cr. Web Developer
+Full Time | InHouse
+2019 - 2020
+ib-themes ltd.
+I design and develop services for customers of all sizes, specializing in creating stylish, modern websites
+
+Jr. Web Developer
+Full Time | Remote
+2018 - 2019
+Creative Gigs.
+I design and develop services for customers of all sizes, specializing in creating stylish, modern websites
+
+
+=======Services section=======
+
+1.Ui/UX Consultancy
+-------------------
+
+Ui/UX Consultancy
+
+What is UX consulting?
+UX consulting helps companies improve their product’s overall usability and optimize expenses by implementing the right UX processes, methods, and tools.
+
+What I provide
+Establish the right UX processes
+Create exceptional user experiences
+Discover new business opportunities
+Save resources
+
+2.Branding & Design
+-------------------
+
+Branding & Design
+What is Brand & Design?
+Brand Design can be defined as one of the crucial marketing practices of creating the name, logo, design, and the symbolic elements related to the brand to create a distinctive identity in comparison to the other brands in the market and also providing impetus to the product differentiation.
+
+What I provide
+Logo Design
+Banner Design
+Visual Identity Packages
+Business Cards & Business Systems
+
+3.Web Development
+-----------------
+
+Web Development
+What is Web Development?
+Web development services are used to design, build, support, and evolve all types of web-based software.
+
+What I provide
+Web application development
+Testing
+Maintenance
+
+4.Content Writing
+-----------------
+
+Content Writing
+What is Content Writing?
+Content writing is the process of planning, writing and editing web content, typically for digital marketing purposes.
+
+What I provide
+Web content writing
+Blog writing for websites
+Social media content
+
+=======Portfolio section=======
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+
+=======Our client section=======
+
+1.
+Hi, I’m Aria Collins and I am designer & developer who dream making the world better place by products. I am also very active for international clients.
+
+Aria Collins
+
+Marketing Manager
+
+2.
+This is outstanding work. Everything I needed to do has been done by the makers. I really like this template and more importantly my clients are blown away by it.
+
+Cillian Metcalfe
+
+Graphic Designer
+
+3.
+These people really know what they are doing! Great customer support availability and supperb kindness. I am very happy that I've purchased this liscense!!!
+
+Kianna Baird
+
+App Developer
+
+=======Contact section=======
+
++00 123-777-9999
+
+martain@email.com
+
+7249 Brewery Ave. San Francisco, CA 94112
+
+I'm always open to discussing product design work or partnerships.
+
+=======Footer=======
+
+© 2021 by Coding Snow. All rights reserved.
+
+Presentation :
+
+Bonjour, je m'appelle Louison et je suis actuellement étudiante en Master CAWEB.
+Passionnée par le développement web, le graphisme et l'UX/UI, 
+je suis à la recherche d'une alternance dans ce domaine pour acquérir 
+une expérience pratique et développer mes compétences.
+
+Au cours de mes études, j'ai eu l'occasion d'approfondir mes connaissances 
+en programmation web, en design graphique et en conception UX/UI. 
+J'ai notamment travaillé sur plusieurs projets académiques où j'ai pu mettre 
+en pratique ces compétences et obtenir des résultats concrets.
+
+Je suis convaincue que l'alternance est une excellente opportunité pour moi de 
+mettre en pratique mes connaissances théoriques et de développer mes compétences 
+dans un environnement professionnel. Je suis motivée, curieuse et prête à relever 
+de nouveaux défis.
+
+Je suis particulièrement intéressée par votre entreprise en raison de [mentionnez ici ce qui vous attire dans l'entreprise]. Je suis convaincue que je peux apporter une valeur ajoutée à votre équipe grâce à mes compétences et mon engagement.
+
+Je vous remercie de m'avoir donné l'opportunité de me présenter. Je serais ravie de discuter plus en détail de ma candidature et de mes qualifications. Merci.
+
+
+Je m'appelle Louison et je suis étudiante en Master CAWEB. 
+Passionnée par le monde du développement web, du graphisme et de l'UX/UI, 
+je suis ici aujourd'hui pour vous parler de mes aspirations professionnelles 
+et de mon désir de trouver une alternance dans ces domaines stimulants.
+
+Au cours de mes études, j'ai eu l'occasion d'explorer en profondeur les 
+différents aspects du développement web, du design graphique et de 
+l'expérience utilisateur. J'ai développé des compétences solides en 
+programmation, en conception visuelle et en analyse des besoins des utilisateurs.
+
+Ce qui m'attire particulièrement dans le domaine du développement web, 
+c'est la possibilité de créer des produits numériques innovants qui améliorent 
+la vie des utilisateurs. Je trouve fascinant de pouvoir allier la technologie 
+et la créativité pour concevoir des interfaces conviviales et esthétiques.
+
+En parallèle, j'ai également un vif intérêt pour le graphisme et l'UX/UI. 
+J'apprécie la recherche constante de l'esthétique et de l'utilisabilité 
+optimales dans la conception des interfaces utilisateur. 
+Pour moi, le design est bien plus qu'une simple esthétique, 
+c'est une manière de communiquer, de guider et d'émouvoir les utilisateurs.
+
+Aujourd'hui, je suis à la recherche d'une alternance qui me 
+permettra de mettre en pratique mes compétences et de continuer 
+à apprendre dans un environnement professionnel stimulant. 
+Je suis convaincue que votre entreprise, reconnue pour son expertise 
+dans le domaine du développement web, serait un lieu idéal pour développer 
+mes compétences et contribuer à des projets innovants.
+
+Je suis motivée, curieuse et prête à m'investir pleinement dans cette nouvelle opportunité. Je serais ravie de discuter avec vous de la manière dont je pourrais contribuer à votre équipe et de comment nous pourrions collaborer pour atteindre nos objectifs communs.
+
+Je vous remercie de votre attention et je me tiens à votre disposition pour toute discussion supplémentaire. Merci.
