@@ -65,6 +65,19 @@ li{
 /*=======Light/Dark theme button=======*/
 
 /*=======Scroll bar=======*/
+::-webkit-scrollbar{
+    width: 10px;
+    background: var(--scroll-bar-color);
+}
+
+::-webkit-scrollbar-thumb{
+    background: var(--scroll-thumb-color);
+    border-radius: 2em;
+}
+
+::-webkit-scrollbar-thumb:hover{
+    background: var(--scroll-thumb-hover-color);
+}
 
 /*=======Header=======*/
 header{
@@ -75,6 +88,11 @@ header{
     left: 0;
     backdrop-filter: blur(20px);
     transition: .6s ease;
+}
+
+header.sticky{
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: var(--box-shadow);
 }
 
 .nav-bar{
@@ -88,6 +106,10 @@ header{
     margin-right: auto;
     padding: 0 20px;
     transition: .6s ease;
+}
+
+header.sticky .nav-bar{
+    height: calc(2.5rem + 1rem);
 }
 
 .nav-bar .logo{
@@ -317,6 +339,20 @@ header{
     border-bottom: 2px solid var(--line-color);
 }
 
+.about-info .skills-list{
+    display: flex;
+    column-gap: 30px;
+}
+
+.about-info .skills-list .list-item h3{
+    font-size: 2.5em;
+    font-weight: 700;
+}
+
+.about-info .skills-list .list-item span{
+    color: var(--third-color);
+    font-size: var(--small-font-size);
+}
 /*=======Skills section=======*/
 
 /*=======Services section=======*/
