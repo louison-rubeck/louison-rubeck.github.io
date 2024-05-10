@@ -339,20 +339,6 @@ header.sticky .nav-bar{
     border-bottom: 2px solid var(--line-color);
 }
 
-.about-info .skills-list{
-    display: flex;
-    column-gap: 30px;
-}
-
-.about-info .skills-list .list-item h3{
-    font-size: 2.5em;
-    font-weight: 700;
-}
-
-.about-info .skills-list .list-item span{
-    color: var(--third-color);
-    font-size: var(--small-font-size);
-}
 /*=======Skills section=======*/
 
 /*=======Services section=======*/
