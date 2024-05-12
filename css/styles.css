@@ -203,6 +203,10 @@ header.sticky .nav-bar{
     color: var(--second-color);
 }
 
+.nav-menu-btn, .nav-close-btn{
+    display: none;
+}
+
 /*=======Home section=======*/
 .home{
     position: relative;
@@ -313,7 +317,7 @@ header.sticky .nav-bar{
 
 .section{
     position: relative;
-    width: 1150px;
+    max-width: 1150px;
     margin-left: auto;
     margin-right: auto;
     padding: 6rem 2rem 2rem;
@@ -321,7 +325,7 @@ header.sticky .nav-bar{
 
 .sub-section{
     position: relative;
-    width: 1150px;
+    max-width: 1150px;
     margin-left: auto;
     margin-right: auto;
     padding: 6rem 0;
@@ -848,26 +852,173 @@ footer a{
 /*=======Media query max-width 1070px=======*/
 @media screen and (max-width: 1070px){
   /*=======Header navigation menu=======*/
+  .navigation{
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: var(--transparent-color-01);
+    visibility: hidden;
+    opacity: 0;
+    transition: .3s ease;
+  }
+
+  .navigation.active{
+    visibility: visible;
+    opacity: 1;
+  }
+
+  .nav-items{
+    position: relative;
+    background: var(--modal-bg-color);
+    width: 600px;
+    max-width: 600px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 20px;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+    transform: translateY(-50px);
+    transition: .3 ease;
+  }
+
+  .navigation.active .nav-items{
+    transform: translateY(0);
+  }
+
+  .nav-items a{
+    margin: 15px 50px;
+  }
+
+  .nav-close-btn{
+    position: absolute;
+    background-size: 12px;
+    font-size: 120%;
+    background-position: center;
+    width: 40px;
+    height: 40px;
+    top: 0;
+    right: 0;
+    margin: 10px;
+    cursor: pointer;
+    display: block;
+  }
+
+  .nav-menu-btn{
+    background-size: 30px;
+    font-size: 130%;
+    background-position: center;
+    height: 40px;
+    width: 40px;
+    cursor: pointer;
+    display: block;
+  }
 
   /*=======Home section=======*/
+  .home .home-container .info{
+    font-size: 0.85rem;
+  }
 
   /*=======About section=======*/
+  .about .container .content{
+    display: grid;
+    width: 100%;
+    row-gap: 20px;
+  }
 
-  /*=======Get-in-touct=======*/
+  .about-img img{
+    min-width: 0;
+    width: 100%;
+  }
 
-  /*=======Our clients=======*/
+  .about-info{
+    min-width: 0;
+    width: 100%;
+  }
 
   /*=======Contact section=======*/
+  .contact .content{
+    flex-direction: column;
+    font-size: 0.9rem;
+  }
+
+  .contact .contact-left{
+    margin-bottom: 40px;
+  }
 
   /*=======Footer=======*/
+  footer .footer-container{
+    flex-direction: column;
+  }
+
+  .footer-container .about, .fotter-container .info{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+
+  .footer-container .info ul{
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .footer-container .info ul li{
+    margin: 5px 0;
+  }
+
+  .footer-container .hr{
+    width: 100%;
+    height: 2px;
+    background: rgba(255, 255, 255, 0.1);
+    margin: 10px 0 22px;
+  }
 }
 
 /*=======Media query max-width 730px=======*/
 @media screen and (max-width: 730px){
   /*=======Common styles for all sections=======*/
+  body{
+    margin: 5rem 0 0 0;
+  }
+
+  .section-title-01{
+    font-size: 3em;
+  }
+
+  .section-title-02{
+    font-size: 2em;
+    transform: translateY(-65px);
+  }
 
   /*=======Home section=======*/
+  .home .home-container{
+    display: grid;
+  }
 
-  /*=======Get-in-touch section=======*/
+  .home-container .home-img{
+    position: absolute;
+  }
+
+  .home-container .home-img img{
+    width: 45%;
+    transform: translate(80px, -210px);
+  }
+
+  .home .home-container .info{
+    font-size: 0.8rem;
+  }
+
+  .media-icons{
+    margin-bottom: 80px;
+  }
+
 }
       
