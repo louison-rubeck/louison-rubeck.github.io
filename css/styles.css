@@ -207,6 +207,16 @@ header.sticky .nav-bar{
     display: none;
 }
 
+.language{
+    margin-left: 50px;
+    align-items: center;
+    display: inline-block;
+}
+
+.language img{
+    margin-right: 10px;
+}
+
 /*=======Home section=======*/
 .home{
     position: relative;
@@ -888,6 +898,10 @@ footer a{
     transition: .3 ease;
   }
 
+  .language{
+    margin-right: 2rem;
+  }
+
   .navigation.active .nav-items{
     transform: translateY(0);
   }
@@ -957,7 +971,7 @@ footer a{
     flex-direction: column;
   }
 
-  .footer-container .about, .fotter-container .info{
+  .footer-container .about, .footer-container .info{
     display: flex;
     justify-content: center;
     align-items: center;
