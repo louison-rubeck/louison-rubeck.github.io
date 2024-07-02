@@ -135,6 +135,7 @@ li{
 ::-webkit-scrollbar{
     width: 10px;
     background: var(--scroll-bar-color);
+    border-radius: 10px;
 }
 
 ::-webkit-scrollbar-thumb{
@@ -680,6 +681,9 @@ header.sticky .nav-bar{
     position: relative;
     background: var(--modal-bg-color);
     max-width: 600px;
+    max-height: 600px;
+    overflow: hidden;
+    overflow-y: scroll;
     margin: 20px;
     padding: 40px;
     border-radius: 10px;
@@ -699,10 +703,10 @@ header.sticky .nav-bar{
 }
 
 .projects-model-body img{
-    width: 100%;
+    max-width: 100%;
     max-height: 60vh;
-    margin: 20px 0;
-    border-radius: 10px;
+    margin: 20px 10%;
+    border-radius: 20px;
     object-fit: scale-down;
 }
 
